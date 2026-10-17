@@ -1,6 +1,6 @@
 # Freebuds4i_controler
 
-Aplicación moderna para Android diseñada específicamente para gestionar y controlar los auriculares **FreeBuds 4i** mediante Bluetooth (protocolo MBB).
+Aplicación moderna para Android diseñada específicamente para gestionar y controlar los auriculares **FreeBuds 4i** 
 
 <p align="center">
   <img src="docs/captura.jpeg" alt="Captura de la aplicación" width="320"/>
