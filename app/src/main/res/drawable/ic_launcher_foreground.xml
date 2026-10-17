@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimalist Headband -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M32,54 A22,22 0 0,1 76,54" />
+    
+    <!-- Left Capsule Cup -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,44 A3,3 0 0,1 32,47 V61 A3,3 0 0,1 29,64 A3,3 0 0,1 26,61 V47 A3,3 0 0,1 29,44 Z" />
+        
+    <!-- Right Capsule Cup -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M79,44 A3,3 0 0,1 82,47 V61 A3,3 0 0,1 79,64 A3,3 0 0,1 76,61 V47 A3,3 0 0,1 79,44 Z" />
+</vector>
