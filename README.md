@@ -12,12 +12,10 @@ Aplicación moderna para Android diseñada específicamente para gestionar y con
 - **Control de Ruido**: Alternar entre Cancelación Activa de Ruido, Modo Desactivado y Modo Atención.
 - **Configuración de Gestos**: Personalización de acciones de doble toque y toque prolongado independientes para cada auricular.
 - **Detección de Uso**: Activación o desactivación de pausa automática al retirar un auricular.
-- **Interfaz Moderna**: Diseño limpio e intuitivo desarrollado con Jetpack Compose y Material 3.
 
 ## Requisitos
 
-- Android 8.0 (API nivel 26) o superior.
-- Bluetooth habilitado.
+- Android 8.0 o superior.
 
 ## Instalación
 
