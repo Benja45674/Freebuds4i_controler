@@ -20,13 +20,3 @@ Aplicación moderna para Android diseñada específicamente para gestionar y con
 ## Instalación
 
 Descarga el archivo APK listo para instalar desde la sección de [Releases](https://github.com/Benja45674/Freebuds4i_controler/releases).
-
-## Compilación
-
-Para compilar el proyecto localmente:
-
-```bash
-./gradlew assembleRelease
-```
-
-El APK generado se encontrará en `app/build/outputs/apk/release/app-release.apk`.
